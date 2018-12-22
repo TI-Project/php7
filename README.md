@@ -1,2 +1,5 @@
 # php7
-Estudo de php7 com HCODE
+Estrutura de estudos sobre PHP 7 
+
+LEANDRO- DEVELOPER 
+
